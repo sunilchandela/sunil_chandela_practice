@@ -1,0 +1,14 @@
+ 
+1st Class 
+
+ <script>
+    let root = document.getElementById('root');
+    hone = document.createElement('h1');
+    hone.innerHTML = "Namaste Everyone from Javascript";
+    root.appendChild(hone);
+  </script>
+
+What is emmet?
+what is cdn?
+what is crossorigin?
+async and defer
