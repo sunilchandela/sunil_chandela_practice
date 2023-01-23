@@ -1,0 +1,8 @@
+Second React Class
+npm init
+npm install -D parcel
+npm install react
+npm install react-dom
+npx parcel index.html
+npx parcel build index.html
+script types
